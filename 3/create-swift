@@ -1,0 +1,5 @@
+mkdir swift3
+cd swift3
+swift package init --type executable
+echo "Now modify Package.swift and then go and edit swift3/main.swift"
+
