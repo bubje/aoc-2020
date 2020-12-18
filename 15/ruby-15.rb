@@ -1,6 +1,6 @@
 #!/usr/bin/ruby
 #
-# solution for day 14
+# solution for day 15
 
 # some basic checking: did we get an argument?
 if ARGV.length != 2
