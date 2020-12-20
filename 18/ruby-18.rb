@@ -87,8 +87,6 @@ end
 ###
 
 # some basic checking: did we get an argument?
-
-# some basic checking: did we get an argument?
 if ARGV.length != 1
 	puts "Usage: script <filename>"
 	exit 1
